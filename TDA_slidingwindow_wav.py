@@ -218,7 +218,6 @@ def compute_pds_for_split_from_filepath(song_name, song_filepath, splits, i, tem
 
     return dgm
 
-# Not tested yet
 
 # Compute and visualize clusters given list of diagrams
 def compute_clusters(famemonster_dgms, artpop_dgms, chromatica_dgms, plot_clusters = True):
